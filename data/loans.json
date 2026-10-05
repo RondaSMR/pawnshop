@@ -1,0 +1,5 @@
+[
+  {"id":"L001","principal":"20000.00","daily_rate":"0.001","cap_ratio":"1","issued":"2026-09-01","due":"2026-09-15","grace_until":"2026-10-15","status":"open"},
+  {"id":"L002","principal":"15000.00","daily_rate":"0.001","cap_ratio":"1","issued":"2026-08-01","due":"2026-08-20","grace_until":"2026-09-20","status":"open"},
+  {"id":"L003","principal":"10000.00","daily_rate":"0.001","cap_ratio":"1","issued":"2026-08-01","due":"2026-08-20","grace_until":"2026-09-20","status":"redeemed"}
+]
